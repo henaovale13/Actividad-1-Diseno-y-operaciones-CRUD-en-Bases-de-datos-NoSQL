@@ -1,0 +1,30 @@
+[{
+  "_id": "1",
+  "nombre": "Howard Webb",
+  "experiencia": 20,
+  "partidos_arbitrados": 300
+},
+{
+  "_id": "2",
+  "nombre": "Ernest Silver",
+  "experiencia": 30,
+  "partidos_arbitrados": 500
+},
+{
+  "_id": "3",
+  "nombre": "Wilmar Roldán",
+  "experiencia": 16,
+  "partidos_arbitrados": 200
+},
+{
+  "_id": "4",
+  "nombre": "Nicolás Gallo",
+  "experiencia": 6,
+  "partidos_arbitrados": 150
+},
+{
+  "_id": "5",
+  "nombre": "Imer Machado",
+  "experiencia": 12,
+  "partidos_arbitrados": 170
+}]

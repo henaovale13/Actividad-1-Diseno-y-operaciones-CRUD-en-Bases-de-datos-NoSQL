@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "655a9e8f4a0dfe699252699b"
+  },
+  "encuentro": "2023-11-15",
+  "equipo_ganador": "Millonarios",
+  "puntuacion": "2-1",
+  "estadisticas_juego": {
+    "posesion": "60%",
+    "tiros_al_arco": 8
+  }
+},
+{
+  "_id": {
+    "$oid": "655ad2514a0dfe69925269b5"
+  },
+  "encuentro": "2023-11-18",
+  "equipo_ganador": "Junior",
+  "puntuacion": "3-1",
+  "estadisticas_juego": {
+    "posesion": "70%",
+    "tiros_al_arco": 12
+  }
+},
+{
+  "_id": {
+    "$oid": "655ad2724a0dfe69925269b6"
+  },
+  "encuentro": "2023-11-18",
+  "equipo_ganador": "Tolima",
+  "puntuacion": "4-0",
+  "estadisticas_juego": {
+    "posesion": "50%",
+    "tiros_al_arco": 8
+  }
+},
+{
+  "_id": {
+    "$oid": "655ad29b4a0dfe69925269b7"
+  },
+  "encuentro": "2023-11-19",
+  "equipo_ganador": "España",
+  "puntuacion": "3-1",
+  "estadisticas_juego": {
+    "posesion": "70%",
+    "tiros_al_arco": 13
+  }
+},
+{
+  "_id": {
+    "$oid": "655ad2be4a0dfe69925269b8"
+  },
+  "encuentro": "2023-11-18",
+  "equipo_ganador": "Francia",
+  "puntuacion": "14-0",
+  "estadisticas_juego": {
+    "posesion": "80%",
+    "tiros_al_arco": 20
+  }
+}]

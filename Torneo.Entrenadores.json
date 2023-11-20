@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "655a9c334a0dfe6992526987"
+  },
+  "nombre": "Andrés",
+  "apellido": "Mejía",
+  "edad": 40,
+  "nacionalidad": "Chileno",
+  "equipo": "Barcelona"
+},
+{
+  "_id": {
+    "$oid": "655ad08d4a0dfe69925269ac"
+  },
+  "nombre": "José",
+  "apellido": "Mourinho",
+  "edad": 55,
+  "nacionalidad": "Portugués",
+  "equipo": "Roma"
+},
+{
+  "_id": {
+    "$oid": "655ad0ba4a0dfe69925269ad"
+  },
+  "nombre": "Alfredo",
+  "apellido": "Arias",
+  "edad": 65,
+  "nacionalidad": "Uruguaya",
+  "equipo": "Independiente Medellín"
+},
+{
+  "_id": {
+    "$oid": "655ad0ee4a0dfe69925269ae"
+  },
+  "nombre": "Alberto",
+  "apellido": "Gamero",
+  "edad": 60,
+  "nacionalidad": "Colombiana",
+  "equipo": "Millonarios"
+}]

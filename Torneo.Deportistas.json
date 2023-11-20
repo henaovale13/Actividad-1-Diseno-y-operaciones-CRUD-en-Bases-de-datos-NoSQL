@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "655a9b704a0dfe6992526984"
+  },
+  "nombre": "Lionel",
+  "apellido": "Messi",
+  "edad": 25,
+  "nacionalidad": "Argentina",
+  "equipo": "Barcelona",
+  "posicion": "Delantero",
+  "estadisticas": {
+    "goles_anotados": 10,
+    "asistencias": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "655ace004a0dfe69925269a3"
+  },
+  "nombre": "Cristiano",
+  "apellido": "Ronaldo",
+  "edad": 38,
+  "nacionalidad": "Portugués",
+  "equipo": "Al Nassr",
+  "posicion": "Delantero",
+  "estadisticas": {
+    "goles_anotados": 30,
+    "asistencias": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "655ace324a0dfe69925269a4"
+  },
+  "nombre": "Miguel",
+  "apellido": "Monsalve",
+  "edad": 20,
+  "nacionalidad": "Colombia",
+  "equipo": "Independiente Medellín",
+  "posicion": "Delantero",
+  "estadisticas": {
+    "goles_anotados": 5,
+    "asistencias": 3
+  }
+},
+{
+  "_id": {
+    "$oid": "655ace5b4a0dfe69925269a5"
+  },
+  "nombre": "Edwin",
+  "apellido": "Cetré",
+  "edad": 25,
+  "nacionalidad": "Colombia",
+  "equipo": "Independiente Medellín",
+  "posicion": "Delantero",
+  "estadisticas": {
+    "goles_anotados": 12,
+    "asistencias": 6
+  }
+}]

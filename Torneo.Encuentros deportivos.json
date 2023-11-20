@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "655a9e3e4a0dfe6992526994"
+  },
+  "fecha": "2023-01-01",
+  "hora": "18:00",
+  "equipos_participantes": [
+    "Barcelona",
+    "Argentina"
+  ],
+  "lugar": "Atanasio Girardot",
+  "arbitro_asignado": "Andrés Mejía"
+},
+{
+  "_id": {
+    "$oid": "655acea04a0dfe69925269a7"
+  },
+  "fecha": "2023-11-19",
+  "hora": "18:30",
+  "equipos_participantes": [
+    "Medellín",
+    "Nacional"
+  ],
+  "lugar": "Atanasio Girardot",
+  "arbitro_asignado": "Wilmar Roldán"
+},
+{
+  "_id": {
+    "$oid": "655acf464a0dfe69925269a8"
+  },
+  "fecha": "2023-11-15",
+  "hora": "20:00",
+  "equipos_participantes": [
+    "Millonarios",
+    "Nacional"
+  ],
+  "lugar": "Estadio El Campín",
+  "arbitro_asignado": "Nicolás Gallo"
+},
+{
+  "_id": {
+    "$oid": "655ad0204a0dfe69925269a9"
+  },
+  "fecha": "2023-11-19",
+  "hora": "14:45",
+  "equipos_participantes": [
+    "España",
+    "Georgia"
+  ],
+  "lugar": "José Zorrilla",
+  "arbitro_asignado": "Oscar Hategan"
+},
+{
+  "_id": {
+    "$oid": "655ad05c4a0dfe69925269aa"
+  },
+  "fecha": "2023-11-19",
+  "hora": "14:45",
+  "equipos_participantes": [
+    "Portugal",
+    "Islandia"
+  ],
+  "lugar": "José Alvalade",
+  "arbitro_asignado": "Amikas Papapetrou"
+}]
